@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/moigonzaga0567/TestProjectYAML/_apis/build/status/MoisesGonzaga.pipelines-java?branchName=master)](https://dev.azure.com/moigonzaga0567/TestProjectYAML/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
